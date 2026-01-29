@@ -1,6 +1,5 @@
 *Welcome to Meteor Blaster!*<br>
-another of my scratch games, this one is both more complex than tag and in progress.<br>
-I am taking suggestions on how I can improve it from my friends and once I get enough responses I will update the game.<br>
+another of my scratch games, this one is more complicated than my previous games.<br>
 <br>
 Here's how it works (if you just want to start playing there's instructions there too):<br>
 1. to play, move with W A S and D. hold down the spacebar or click to shoot. The ship atomatically points toward your mouse.<br>
